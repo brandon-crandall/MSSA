@@ -36,20 +36,20 @@ The assignment was to use five different methods from each of three different C#
 - File.Delete();
 
 
-## **C# Module 2**
+### **C# Module 2**
 
 Lessons learned regarding overloading methods from Module 2 of the textbook. 
 
-## **C# Module 3**
+### **C# Module 3**
 
 Lessons learned regarding Hastables and event handling form Module 3 of the textbook.
 
-## **C# Module 4**
+### **C# Module 4**
 
 Lessons learned regarding Static classes form Module 4 of the textbook.
 
 
-## **C# BMI Calculator**
+### **C# BMI Calculator**
 
 This was an assignment for CSC 205, but is not a significant enough program to warrant it's own repo. I wrote this program within the first couple weeks of learning C#. 
 
