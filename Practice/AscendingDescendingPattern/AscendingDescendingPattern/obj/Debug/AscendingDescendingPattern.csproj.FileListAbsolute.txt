@@ -1,0 +1,7 @@
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\bin\Debug\AscendingDescendingPattern.exe.config
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\bin\Debug\AscendingDescendingPattern.exe
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\bin\Debug\AscendingDescendingPattern.pdb
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\obj\Debug\AscendingDescendingPattern.csprojAssemblyReference.cache
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\obj\Debug\AscendingDescendingPattern.csproj.CoreCompileInputs.cache
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\obj\Debug\AscendingDescendingPattern.exe
+C:\Users\brandon.crandall\source\repos\AscendingDescendingPattern\AscendingDescendingPattern\obj\Debug\AscendingDescendingPattern.pdb
