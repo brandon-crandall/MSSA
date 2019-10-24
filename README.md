@@ -40,7 +40,11 @@ Lessons learned regarding overloading methods from Module 2 of the textbook.
 
 ## **C# Module 3**
 
-Lessons learned regarind Hastables and event handling form Module 3 of the textbook.
+Lessons learned regarding Hastables and event handling form Module 3 of the textbook.
+
+## **C# Module 4**
+
+Lessons learned regarding Static classes form Module 4 of the textbook.
 
 ## **C# BMI Calculator**
 
