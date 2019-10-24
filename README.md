@@ -50,3 +50,10 @@ Lessons learned regarding Static classes form Module 4 of the textbook.
 
 This was an assignment for CSC 205, but is not a significant enough program to warrant it's own repo. I wrote this program within the first couple weeks of learning C#. 
 
+# **Practice**
+
+Code I wrote for various reasons.
+
+## **AscendingDescendingPattern**
+
+Code that checks if two words have the same ascending and descending letter pattern.
