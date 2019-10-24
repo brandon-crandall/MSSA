@@ -4,6 +4,7 @@ Within this repository are many of the projects I've worked on over the course o
 
 Some of the work I've done is not necessarily for MSSA, but doesn't necessitate it's own repo.
 
+
 ## **C# Class (CSC 205)**
 
 ## **C# Midterm**
@@ -34,6 +35,7 @@ The assignment was to use five different methods from each of three different C#
 - File.Exists();
 - File.Delete();
 
+
 ## **C# Module 2**
 
 Lessons learned regarding overloading methods from Module 2 of the textbook. 
@@ -46,14 +48,16 @@ Lessons learned regarding Hastables and event handling form Module 3 of the text
 
 Lessons learned regarding Static classes form Module 4 of the textbook.
 
+
 ## **C# BMI Calculator**
 
 This was an assignment for CSC 205, but is not a significant enough program to warrant it's own repo. I wrote this program within the first couple weeks of learning C#. 
+
 
 # **Practice**
 
 Code I wrote for various reasons.
 
-## **AscendingDescendingPattern**
+### **AscendingDescendingPattern**
 
 Code that checks if two words have the same ascending and descending letter pattern.
